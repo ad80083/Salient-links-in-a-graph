@@ -5,3 +5,6 @@ https://uk.mathworks.com/matlabcentral/fileexchange/112390-salient-links-in-a-gr
 
 # Cite As
 Ajay Kumar (2025). Salient links in a graph (https://www.mathworks.com/matlabcentral/fileexchange/112390-salient-links-in-a-graph), MATLAB Central File Exchange
+
+# References
+Grady, Daniel, Christian Thiemann, and Dirk Brockmann. "Robust classification of salient links in complex networks." Nature communications 3 (2012): 864.
